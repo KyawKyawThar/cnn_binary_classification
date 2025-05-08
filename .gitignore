@@ -1,6 +1,13 @@
-_MACOSX
-pizza_steak
-03-pizza-dad.jpeg
+# System files
+_MACOSX/
+.DS_Store
+
+# Image files to ignore
+*.jpeg
+!important.jpeg  # Exception (if needed)
+
+# Specific files
 pizza_steak.zip
-pizza-dead-jpeg
-steak.jpeg
+
+# Directories
+pizza_steak/
