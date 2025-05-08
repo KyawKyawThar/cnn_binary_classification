@@ -1,10 +1,10 @@
 # System files
-_MACOSX/
+__MACOSX
 .DS_Store
 
 # Image files to ignore
 *.jpeg
-!important.jpeg  # Exception (if needed)
+
 
 # Specific files
 pizza_steak.zip
